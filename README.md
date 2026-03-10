@@ -16,7 +16,7 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Vue Frimousse](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/frimousse&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-frimousse)
+[![Vue Frimousse](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-frimousse&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-frimousse)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 [![vue-color-wheel](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-color-wheel&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-color-wheel)
